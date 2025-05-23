@@ -4,9 +4,9 @@ from os import path
 from flask_login import LoginManager
 
 db = SQLAlchemy()
-DB_NAME = "login_database"
-DB_USER = "shravan21"
-DB_PASSWORD = "password123"
+DB_NAME = "******"
+DB_USER = "******"
+DB_PASSWORD = "******"
 DB_HOST = "localhost"
 
 
